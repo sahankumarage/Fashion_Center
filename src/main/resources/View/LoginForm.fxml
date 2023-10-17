@@ -12,7 +12,7 @@
    <children>
       <ImageView fitHeight="460.0" fitWidth="797.0" layoutX="-2.0" layoutY="-1.0">
          <image>
-            <Image url="@../../../../img/alyssa-strohmann-TS--uNw-JqE-unsplash.jpg" />
+            <Image url="@../img/alyssa-strohmann-TS--uNw-JqE-unsplash.jpg" />
          </image>
       </ImageView>
       <Label alignment="CENTER" layoutX="-5.0" layoutY="17.0" opacity="0.83" prefHeight="74.0" prefWidth="801.0" style="-fx-background-color: #F2F3A9;" text="FASHION CENTER" textAlignment="CENTER" textOverrun="CLIP">
@@ -24,7 +24,7 @@
          <children>
             <ImageView fitHeight="74.0" fitWidth="85.0" layoutX="178.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../../../img/128-1280406_view-user-icon-png-user-circle-icon-png.png" />
+                  <Image url="@../img/128-1280406_view-user-icon-png-user-circle-icon-png.png" />
                </image>
             </ImageView>
             <JFXTextField layoutX="125.0" layoutY="99.0" prefHeight="40.0" prefWidth="252.0" />

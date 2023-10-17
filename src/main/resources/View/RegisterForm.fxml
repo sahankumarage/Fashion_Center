@@ -14,7 +14,7 @@
    <children>
       <ImageView fitHeight="535.0" fitWidth="919.0" layoutX="-1.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../../../img/hannah-morgan-ycVFts5Ma4s-unsplash.jpg" />
+            <Image url="@../img/hannah-morgan-ycVFts5Ma4s-unsplash.jpg" />
          </image>
       </ImageView>
       <Rectangle arcHeight="50.0" arcWidth="50.0" fill="WHITE" height="70.0" layoutX="176.0" layoutY="16.0" opacity="0.48" stroke="WHITE" strokeType="INSIDE" width="450.0" />
